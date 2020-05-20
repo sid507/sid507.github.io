@@ -1544,7 +1544,7 @@ var PromotionService = /** @class */ (function () {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "baseURL", function() { return baseURL; });
-var baseURL = 'http://localhost:3000/';
+var baseURL = 'http://sid507.github.io/db.json';
 
 
 /***/ }),
